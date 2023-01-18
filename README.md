@@ -55,10 +55,15 @@ Thesis and science-related, research work during my masters at MIPT
 
 - Проведена пред обработка данных
 
-![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.22.39.png "pascal Voc")
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.22.39.png "Предобработка")
 
 - Описано содержание через цвет, текстуру и форму (глобальные фичи)
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.28.26.png "Описание содержимого")
+
 - Детекция объкетов (локальные фичи)
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.28.26.png "Детекция объкетов")
 ### Используемые подходы и архитектуры
 
 * FCNN
