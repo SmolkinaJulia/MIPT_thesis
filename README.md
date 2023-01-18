@@ -86,7 +86,7 @@ Thesis and science-related, research work during my masters at MIPT
 
 *SGT is a sequence embedding function. SGT extracts the short- and long-term sequence features and embeds them in a finite-dimensional feature space. The long and short term patterns embedded in SGT can be tuned without any increase in the computation.*
 
-- Pymde embeddings (существующий тул, однако эмбеддинги реализованы с нуля)
+- Pymde Embeddings (Pymde - эмбеддинги реализованы с нуля)
 
 *In these embeddings similar digits are near each other, and dissimilar digits are not near each other.*
 
@@ -116,6 +116,9 @@ Thesis and science-related, research work during my masters at MIPT
 
 
 `4` Cifar10
+*В процессе*
+
+`5` Imagine Net
 *В процессе*
 
 ### Используемые подходы и архитектуры
