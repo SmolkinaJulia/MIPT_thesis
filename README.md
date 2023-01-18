@@ -43,7 +43,7 @@ Thesis and science-related, research work during my masters at MIPT
 
 где L(theta) — cross-entropy loss, Omega(theta) — регуляризатор, w_{u,v} — вес ребра, и d(.,.) — функция расстояния между эмбеддингами.
 
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "alpha - hyperparameter")
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/theory/7zcHKeylpL0.jpg "alpha - hyperparameter")
 
 
 
