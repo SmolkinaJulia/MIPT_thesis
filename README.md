@@ -12,7 +12,6 @@ Thesis and science-related, research work during my masters at MIPT
 |Базовая организация, кафедра	  |Научно-образовательный центр когнитивного моделирования| - 
 |Тема НИР	                    |Обучение эмбеддингов задач для нейросетевых моделей классификации|Возможны изменения или дополнения 
 |Текущие результаты|----|Дополняется  
-|Используемые подходы и архитектуры|Группа сетей VGG, Группа сетей DenseNet, Группа сетей ResNet, Группа сетей ResNeXt, Группа сетей ReXNet/ResNeSt/Res2Net, Группа сетей RegNet, Группа сетей Inception/Xception, Группа сетей MNASNet/NASNet/PnasNet/SelecSLS/DLA/DPN, Группа сетей MobileNet/MixNet/HardCoRe-NAS, Группа сетей трансформеров BeiT/CaiT/DeiT/PiT/CoaT/LeViT/ConViT/Twins, Группа сетей ViT (Visual Transofrmer), Группа сетей ConvNeXt, Группа сетей ResMLP/MLP-Mixer, Группа сетей NFNet-F, Группа сетей EfficientNet|Дополняется  
 |Наборы данных|mnist, fashoin mnist, pascal voc 2007, imagine net, cifar10|Дополняется 
 
 
