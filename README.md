@@ -57,7 +57,8 @@ Thesis and science-related, research work during my masters at MIPT
 
 ![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.22.39.png "pascal Voc")
 
-
+- Описано содержание через цвет, текстуру и форму (глобальные фичи)
+- Детекция объкетов (локальные фичи)
 ### Используемые подходы и архитектуры
 
 * FCNN
