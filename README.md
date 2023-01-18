@@ -45,6 +45,11 @@ Thesis and science-related, research work during my masters at MIPT
 
 ![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/theory/7zcHKeylpL0.jpg "alpha - hyperparameter")
 
+Для того чтобы из предсказанного Image Embedding’a получить вероятности классов, эмбеддинг пропускается через полносвязный слой с последующим вычислением softmax’a.
+Во время обучения вместе с размеченной картинкой u также выбирается картинка v, которая является соседней в графе, после чего вычисляется loss R(theta).
+Важно отметить, что так как граф похожести используется только на этапе обучения, то время инференса остается прежним.
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/theory/7zcHKeylpL0.jpg "пример архитектуры")
 
 
 ## Проведенные эксперименты и Текущее состояние НИР
