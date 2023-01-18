@@ -51,6 +51,9 @@ Thesis and science-related, research work during my masters at MIPT
 
 
 ## Проведенные эксперименты и Текущее состояние НИР
+
+Кратко опишу, какая работа была проделана, не вдаваясь в детали, подробнее можно посмотреть в разделе code. Там будет лежать код-скрипт, комментарии и визуализауия.
+
 `1` pascal VOC 2007
 
 - Проведена пред обработка данных
@@ -64,6 +67,30 @@ Thesis and science-related, research work during my masters at MIPT
 - Детекция объкетов (локальные фичи)
 
 ![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.28.26.png "Детекция объкетов")
+
+Для оценки качества использовалась модицикация IoU. Реалищовано только для крупнйешего класса - person.
+
+`2` MNIST
+
+- Проведене предобработка
+
+![alt-текст]( "Предобработка")
+
+- Кодирование меток-цифр с помощью one-hot encoding и получение векторов значений
+- Тренировка и тест раззных классификаторов
+- Как нейросетевая модель использоваласьс ерточная сеть с разными комбинациями слоёв и лосс функций
+- Испольщование Sequence Graph Transform (SGT)
+
+*SGT is a sequence embedding function. SGT extracts the short- and long-term sequence features and embeds them in a finite-dimensional feature space. The long and short term patterns embedded in SGT can be tuned without any increase in the computation.*
+
+- Pymde (существующий тул, однако эмбеддинги реализованы с нуля)
+
+*In these embeddings similar digits are near each other, and dissimilar digits are not near each other.*
+
+
+`3` Fashion MNIST
+
+`4` Cifar10
 
 ### Используемые подходы и архитектуры
 
