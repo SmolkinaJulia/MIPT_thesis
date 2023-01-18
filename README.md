@@ -21,3 +21,12 @@ Thesis and science-related, research work during my masters at MIPT
 > https://towardsdatascience.com/the-utility-of-task-embeddings-e00a18133f77
 > https://github.com/cvxgrp/pymde/blob/main/examples/fashion_mnist.ipynb
 > https://github.com/botkop/mnist-embedding/blob/master/notebooks/mnist-embedding-classifier.ipynb
+> https://pymde.org
+> https://github.com/tensorpack/tensorpack/blob/master/examples/SimilarityLearning/embedding_data.py
+> https://keras.io/api/datasets/
+> https://medium.com/coinmonks/how-to-get-images-from-imagenet-with-python-in-google-colaboratory-aeef5c1c45e5
+> https://pymde.org/datasets/index.html
+> https://github.com/MatthewWilletts/Embeddings/blob/master/make_embeddings.py
+
+## Используемые датасеты
+`Дописать`
