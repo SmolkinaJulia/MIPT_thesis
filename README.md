@@ -100,6 +100,8 @@ Thesis and science-related, research work during my masters at MIPT
 
 ![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.48.10.png "Валидация")
 
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2018.00.38.png)
+
 
 `3` Fashion MNIST
 
