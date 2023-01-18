@@ -54,7 +54,8 @@ Thesis and science-related, research work during my masters at MIPT
 `1` pascal VOC 2007
 
 - Проведена пред обработка данных
-*втавить фото*
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.22.39.png "pascal Voc")
 
 
 ### Используемые подходы и архитектуры
