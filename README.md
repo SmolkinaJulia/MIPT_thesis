@@ -89,6 +89,16 @@ Thesis and science-related, research work during my masters at MIPT
 
 Например, косинусное расстояние (cosine distance) измеряет угол между двумя векторами признаков.
 
+`PA` Попиксельная точность (pixel accuracy)
+
+`mPA` Средняя попиксельная точность по классам наблюдаемых объектов (mean pixel accuracy over classes)
+
+`IoU` Метрика (Intersection over Union) или индекс Жаккара (Jaccard index) 
+
+`Dice` Индекс Дайса (Dice index) или F1-score
+
+А также набор других стандартных метрик
+
 ## План развития работы
 `1`
 
