@@ -13,4 +13,5 @@ Thesis and science-related, research work during my masters at MIPT
 > Референсы (статьи, теоретические материалы, исследования):
 > 
 > https://towardsdatascience.com/the-utility-of-task-embeddings-e00a18133f77
-> 
+> https://github.com/cvxgrp/pymde/blob/main/examples/fashion_mnist.ipynb
+> https://github.com/botkop/mnist-embedding/blob/master/notebooks/mnist-embedding-classifier.ipynb
