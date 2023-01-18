@@ -103,6 +103,16 @@ Thesis and science-related, research work during my masters at MIPT
 
 `3` Fashion MNIST
 
+Аналогично Mnist по этому чразу приведу картинки результатов применения эмбеддинга
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.55.47.png)
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.55.19.png)
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.55.29.png)
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.55.36.png)
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.55.39.png)
+
+
 `4` Cifar10
 
 ### Используемые подходы и архитектуры
