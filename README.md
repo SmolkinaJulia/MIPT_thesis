@@ -27,6 +27,7 @@ Thesis and science-related, research work during my masters at MIPT
 > https://medium.com/coinmonks/how-to-get-images-from-imagenet-with-python-in-google-colaboratory-aeef5c1c45e5
 > https://pymde.org/datasets/index.html
 > https://github.com/MatthewWilletts/Embeddings/blob/master/make_embeddings.py
+> https://habr.com/ru/post/666314/
 
 ## Используемые датасеты
 `Дописать`
