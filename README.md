@@ -30,6 +30,7 @@ Thesis and science-related, research work during my masters at MIPT
 > https://habr.com/ru/post/666314/
 > https://habr.com/ru/company/leader-id/blog/529012/
 > https://vk.com/@papersreaders-graph-rise-graph-regularized-image-semantic-embedding
+> https://arxiv.org/pdf/1902.10814.pdf
 
 ## Формальная и неформальная постановка задачи и ттеоретические выкладки
 Что такое эмбеддинги и как они помогают искусственному интеллекту понять мир людей
