@@ -74,18 +74,31 @@ Thesis and science-related, research work during my masters at MIPT
 
 - Проведене предобработка
 
-![alt-текст]( "Предобработка")
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.43.02.png "Предобработка")
 
 - Кодирование меток-цифр с помощью one-hot encoding и получение векторов значений
+
+![alt-текст]( "one-hot encoding")
+
 - Тренировка и тест раззных классификаторов
 - Как нейросетевая модель использоваласьс ерточная сеть с разными комбинациями слоёв и лосс функций
 - Испольщование Sequence Graph Transform (SGT)
 
 *SGT is a sequence embedding function. SGT extracts the short- and long-term sequence features and embeds them in a finite-dimensional feature space. The long and short term patterns embedded in SGT can be tuned without any increase in the computation.*
 
-- Pymde (существующий тул, однако эмбеддинги реализованы с нуля)
+- Pymde embeddings (существующий тул, однако эмбеддинги реализованы с нуля)
 
 *In these embeddings similar digits are near each other, and dissimilar digits are not near each other.*
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.46.51.png "Pymde")
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.46.58.png "Pymde")
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.47.43.png "Pymde 3D")
+
+- Валидация
+
+![alt-текст](https://github.com/SmolkinaJulia/MIPT_thesis/blob/main/pictures/practice/Снимок%20экрана%202023-01-18%20в%2017.48.10.png "Валидация")
 
 
 `3` Fashion MNIST
